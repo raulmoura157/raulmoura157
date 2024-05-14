@@ -1,6 +1,4 @@
 - 👋 Oi, sou @raulmoura157
-- 👀 Estou interessado em Html, css, javascript, nodejs, react
-- 🌱 Atualmente estou aprendendo Nodejs e React
 - 📫 raul.moura15@hotmail.com
 - 📞 19 99946-2332
 
