@@ -1,4 +1,4 @@
-## 👋 E aí, eu sou o Raul Moura
+## Opa, Raul Moura aqui!
 
 💻 DevOps | Cloud | Infra como Código | Automação
 
